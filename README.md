@@ -1,10 +1,10 @@
-# Airtable listing theme for Gatsby
+# Using Airtable with Gatsby on 21YunBox for China
 
 ### Gatsby starter theme integrated with [Airtable](https://airtable.com/)
 
 ## Demo
 
-Live demo is available at: https://gatsby-airtable-listing.netlify.com/
+Live demo is available at: https://airtable.21cloudbox.com/
 
 ## Screenshot
 
@@ -19,6 +19,7 @@ Live demo is available at: https://gatsby-airtable-listing.netlify.com/
 - Responsive design (desktop / mobile)
 - Generic newsletter form
 - Dark Mode support 🌙
+- Deploy on [21YunBox](http://launch-in-china.21cloudbox.com/)
 
 ## 🚀 Getting started
 
